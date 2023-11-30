@@ -17,7 +17,7 @@ export default component$(() => {
 
       <div class="container container-center container-spacing-xl">
         <h3>
-          TEST You can <span class="highlight">count</span>
+          TEST TESTYou can <span class="highlight">count</span>
           <br /> on me
         </h3>
         <Counter />
